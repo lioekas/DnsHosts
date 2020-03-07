@@ -3,8 +3,10 @@
 10.0.0.240	ha.ooq.me
 10.0.0.10	ooq.me
 10.0.0.10	chat.ooq.me
-10.0.0.232	nodered.ooq.me
+10.0.0.234	node-red.ooq.me
+10.0.0.234	nodered.ooq.me
 10.0.0.233  nr.ooq.me
+10.0.0.235	smartplugconnect.phicomm.com
 10.0.0.41	nvr.ros.one
 10.0.0.29	web.ooq.me
 10.0.0.21	f.ooq.me
@@ -33,3 +35,5 @@
 
 10.0.0.28 ncloud.ros.one
 10.0.0.31 git.ooq.me
+
+10.0.0.237	esphome.ooq.me
